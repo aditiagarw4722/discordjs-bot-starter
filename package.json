@@ -1,7 +1,7 @@
 {
   "name": "discordjs-tutorial-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "To use this code, follow the instructions:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,10 +9,20 @@
     "dev": "nodemon ./src/bot.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ADITI AGARWAL",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.2.0",
-    "dotenv": "^8.2.0"
-  }
+    "axios": "^1.6.7",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuyy/discordjs-bot-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stuyy/discordjs-bot-starter/issues"
+  },
+  "homepage": "https://github.com/stuyy/discordjs-bot-starter#readme"
 }
